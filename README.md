@@ -72,3 +72,9 @@ I am a quick learner, adaptable, and have a strong work ethic. I am also a team 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhassanDaj&show_icons=true&locale=en" alt="GhassanDaj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GhassanDaj&" alt="GhassanDaj" /></p>
+
+## 📧 Contact Me 
+<div align="center">
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Rahim%20Aziz-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahim-aziz-a73a00208/)](https://www.linkedin.com/in/rahim-aziz-a73a00208/)
+</div>
