@@ -15,11 +15,6 @@ I am a quick learner, adaptable, and have a strong work ethic. I am also a team 
 
 <h2>🛠 Skills</h2>
 
-![languages pic](https://user-images.githubusercontent.com/92406518/212849924-8a4f6ab9-592c-41ce-a771-576ba34a80aa.jpg)
-
-<div>  
- <img align="right" width=80% height=80% src="github/languages%20pic.jpg">
-</div>
 
 <p dir="auto"> 
   <code>IDE</code>
@@ -30,7 +25,10 @@ I am a quick learner, adaptable, and have a strong work ethic. I am also a team 
 - Visual Studio Code
 
 - Android Studio 
-
+- 
+<div>  
+ <img align="right" width=80% height=80% src="github/languages%20pic.jpg">
+</div>
 
 <p dir="auto"> 
   <code>Front-End</code>
