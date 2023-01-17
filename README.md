@@ -76,5 +76,5 @@ I am a quick learner, adaptable, and have a strong work ethic. I am also a team 
 ## 📧 Contact Me 
 <div align="center">
  
-[![Linkedin Badge](https://img.shields.io/badge/-Ghassan%20Aziz-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghassan-al-dajani-b0047b221/)](https://www.linkedin.com/in/ghassan-al-dajani-b0047b221/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ghassan%20ALDajani-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghassan-al-dajani-b0047b221/)](https://www.linkedin.com/in/ghassan-al-dajani-b0047b221/)
 </div>
