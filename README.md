@@ -29,7 +29,7 @@ I am a quick learner, adaptable, and have a strong work ethic. I am also a team 
 - Visual Studio Code
 
 - Android Studio 
-- 
+
 <div>  
  <img align="right" width=80% height=80% src="github/languages%20pic.jpg">
 </div>
