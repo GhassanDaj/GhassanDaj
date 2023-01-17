@@ -6,6 +6,10 @@
 
 I am a quick learner, adaptable, and have a strong work ethic. I am also a team player and am able to work effectively with others. I am passionate about my work and always strive to achieve the best results. I am looking for opportunities to grow and develop my skills further.
 
+<div>  
+ <img align="right" width=80% height=80% src="github/cant%20talk.jpg">
+</div>
+
 - 🎓 I am a 2nd year Computer Science student at **York University**
 - 📍 I am from Beirut, **Lebanon**
 - ⚡ In my free time, i solve problems on Leetcode and read tech articles
