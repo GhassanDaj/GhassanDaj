@@ -7,7 +7,7 @@
 I am a quick learner, adaptable, and have a strong work ethic. I am also a team player and am able to work effectively with others. I am passionate about my work and always strive to achieve the best results. I am looking for opportunities to grow and develop my skills further.
 
 <div>  
- <img align="right" width=20% height=30% src="github/books.jpg">
+ <img align="right" width=15% height=15% src="github/books.jpg">
 </div>
 
 - 🎓 I am a 2nd year Computer Science student at **York University**
