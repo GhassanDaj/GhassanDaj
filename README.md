@@ -17,6 +17,10 @@ I am a quick learner, adaptable, and have a strong work ethic. I am also a team 
 
 ![languages pic](https://user-images.githubusercontent.com/92406518/212849924-8a4f6ab9-592c-41ce-a771-576ba34a80aa.jpg)
 
+<div>  
+ <img align="right" width=80% height=80% src="main/github/languages%20pic.jpg?raw=true">
+</div>
+
 <p dir="auto"> 
   <code>IDE</code>
   </p>
